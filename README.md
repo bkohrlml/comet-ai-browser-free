@@ -10,7 +10,7 @@
 
 10月12日，Perplexity宣布Comet正式向Mac和Windows用户免费开放。之前这东西只有付费订阅用户能用，现在门槛没了。
 
-![Comet浏览器界面展示](image/16862391497572.webp)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/02ef3af9-6efb-4e79-90bf-3a8bfc6d4b2b" />
 
 Comet不是Chrome的翻版。它干脆把"标签页"这个概念扔了，换成一个全局AI工作区。你打开任何网页，都能直接召唤Comet Assistant——问它问题，让它总结内容，或者帮你找数据来源。
 
